@@ -1,2 +1,1 @@
-# meu-remedio
- 
+# SQLiteCRUDNoteAppKotlin

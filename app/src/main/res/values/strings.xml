@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Meus Remédios</string>
+    <string name="enter_title">Nome</string>
+    <string name="title">Titulo</string>
+    <string name="description">Descrição</string>
+    <string name="enter_description">Entre com a Descrição</string>
+    <string name="add">Adicionar</string>
+    <string name="settings">Configurações</string>
+    <string name="search">Pesquisar</string>
+    <string name="add_note">Adicionar Remédio</string>
+    <string name="delete_note">Deletar Remédio</string>
+    <string name="del_dlg_ok_btn">OK</string>
+    <string name="del_dlg_ccl_btn">Cancelar</string>
+    <string name="del_dlg_note_ttl">Remover</string>
+    <string name="del_dlg_note_msg">Você realmente deseja remover esse remédio?</string>
+</resources>
